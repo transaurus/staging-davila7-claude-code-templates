@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/davila7/claude-code-templates",
+  "branch": "main",
+  "docusaurusRoot": "docu",
+  "configFile": "docu/docusaurus.config.ts",
+  "translateCommand": "npm run write-translations",
+  "buildCommand": "npm run build",
+  "buildOutput": "build",
+  "packageManager": "npm"
+}
