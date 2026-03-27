@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Discover Components": {
+    "message": "Discover Components",
+    "description": "The label for category Discover Components in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Additional Tools": {
+    "message": "Additional Tools",
+    "description": "The label for category Additional Tools in sidebar tutorialSidebar"
+  }
+}
