@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Claude Code Templates",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "AITMPL Crystal Ball Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "Documentation",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Browse Components": {
+    "message": "Browse Components",
+    "description": "Navbar item with label Browse Components"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

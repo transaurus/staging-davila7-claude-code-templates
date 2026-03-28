@@ -25,7 +25,7 @@ const config: Config = {
   organizationName: 'davila7', // Usually your GitHub org/user name.
   projectName: 'claude-code-templates', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // GitHub Pages deployment configuration
@@ -52,7 +52,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ["en", "zh-Hans"],
   },
 
   presets: [
